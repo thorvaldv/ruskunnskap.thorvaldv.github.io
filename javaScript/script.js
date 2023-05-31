@@ -12,7 +12,6 @@ function openNav() {
 
        document.getElementById("mySidenav").style.width = "250px";
        document.getElementById("main").style.paddingRight = "250px";
-       /* document.body.style.backgroundColor = "rgba(0,0,0,0.4)"; */
        
        document.getElementById("hamburger_1").style.rotate = "43deg";
        document.getElementById("hamburger_2").style.opacity = "0";
