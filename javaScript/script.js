@@ -33,9 +33,7 @@ function openNav() {
            document.getElementById("hamburger_2").style.opacity = "1";
            document.getElementById("hamburger_3").style.rotate = "0deg";
 
-           if(document.getElementById("main").style.width < 470){
-            document.getElementById("logo").style.display = "block";
-           }
+
 
 
            menyOpen = false
