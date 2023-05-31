@@ -29,8 +29,8 @@ ticker = setInterval("tick()", 1000);
 }
 
 function tick() {
-var secs = timeInSecs;
-if (secs == N){
+    var secs = timeInSecs;
+    if (secs == N){
 
    let tilfeldig = Math.floor(Math.random() * arrLengde);
 
